@@ -104,3 +104,5 @@ fb_list = [0,1]
 #fb_list.extend([fb_list[i-2]+fb_list[i-1] for i in range(2,n)])
 print(fb_list)   
 #print(new_list) 
+
+print(1.2-1.0)

@@ -17,4 +17,6 @@ myfunc
 
 
 
+import re
 
+print(re.findall(r"ana", "banana"))
